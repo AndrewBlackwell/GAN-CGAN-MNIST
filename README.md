@@ -1,2 +1,4 @@
-# CGAN-MNIST
-CGAN for MNIST Dataset using Pytorch, Python, Matplotlib.
+# Conditional Generative Adversarial Net (CGAN) for MNIST Dataset
+#### Created using Pytorch, Python, Matplotlib.
+
+This is a Pytorch implemintation of CGANs.
